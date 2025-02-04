@@ -1,0 +1,201 @@
+Years_of_Experience,Department,Job_Role,Performance_Rating,Seniority_Level,Promoted
+7,IT,Data Scientist,Excellent,Mid,Yes
+5,HR,Recruiter,Average,Mid,No
+14,Marketing,SEO Specialist,Excellent,Senior,Yes
+2,HR,Recruiter,Average,Junior,No
+10,Marketing,Marketing Analyst,Excellent,Senior,Yes
+18,Sales,Sales Manager,Good,Senior,Yes
+12,IT,System Analyst,Good,Senior,Yes
+19,Finance,Accountant,Excellent,Senior,Yes
+10,IT,System Analyst,Good,Senior,Yes
+15,IT,Developer,Excellent,Senior,Yes
+15,Sales,Sales Executive,Good,Senior,Yes
+4,Sales,Sales Executive,Good,Mid,No
+18,Marketing,SEO Specialist,Excellent,Senior,Yes
+17,HR,HR Manager,Excellent,Senior,Yes
+18,IT,Data Scientist,Excellent,Senior,Yes
+9,Sales,Sales Executive,Good,Senior,No
+11,HR,Recruiter,Excellent,Senior,Yes
+4,IT,Developer,Good,Mid,No
+18,Finance,Financial Analyst,Excellent,Senior,Yes
+5,IT,Data Scientist,Good,Mid,No
+20,Marketing,SEO Specialist,Good,Senior,Yes
+6,HR,Recruiter,Excellent,Mid,Yes
+2,IT,Data Scientist,Good,Junior,No
+12,Finance,Accountant,Excellent,Senior,Yes
+10,HR,HR Manager,Excellent,Senior,Yes
+13,Sales,Sales Manager,Good,Senior,Yes
+19,Sales,Sales Executive,Excellent,Senior,Yes
+1,Marketing,Marketing Analyst,Average,Junior,No
+8,Marketing,Marketing Analyst,Good,Senior,Yes
+17,IT,Developer,Excellent,Senior,Yes
+3,Sales,Sales Manager,Good,Mid,No
+6,Marketing,Marketing Analyst,Good,Mid,No
+12,Sales,Sales Manager,Good,Senior,No
+12,Finance,Accountant,Good,Senior,No
+12,Sales,Sales Executive,Excellent,Senior,Yes
+18,HR,Recruiter,Excellent,Senior,Yes
+4,Marketing,SEO Specialist,Average,Mid,No
+11,HR,Recruiter,Excellent,Senior,Yes
+18,Finance,Financial Analyst,Excellent,Senior,Yes
+4,IT,Data Scientist,Good,Mid,No
+7,Finance,Financial Analyst,Excellent,Mid,Yes
+11,IT,Developer,Good,Senior,Yes
+18,IT,Developer,Excellent,Senior,Yes
+0,Marketing,Marketing Analyst,Poor,Junior,No
+16,Marketing,SEO Specialist,Good,Senior,Yes
+10,IT,Developer,Good,Senior,Yes
+18,Finance,Financial Analyst,Excellent,Senior,Yes
+13,IT,Data Scientist,Excellent,Senior,Yes
+12,IT,Data Scientist,Excellent,Senior,Yes
+4,HR,HR Manager,Good,Mid,No
+7,Finance,Accountant,Excellent,Mid,Yes
+5,HR,Recruiter,Good,Mid,No
+18,Marketing,SEO Specialist,Good,Senior,Yes
+18,Marketing,SEO Specialist,Excellent,Senior,Yes
+6,Sales,Sales Executive,Good,Mid,No
+15,Marketing,SEO Specialist,Excellent,Senior,Yes
+4,Marketing,Marketing Analyst,Good,Mid,No
+11,Finance,Accountant,Excellent,Senior,Yes
+18,Marketing,SEO Specialist,Good,Senior,No
+16,Sales,Sales Executive,Excellent,Senior,Yes
+16,HR,Recruiter,Good,Senior,Yes
+17,Marketing,Marketing Analyst,Excellent,Senior,Yes
+12,Finance,Financial Analyst,Excellent,Senior,Yes
+12,Sales,Sales Executive,Good,Senior,No
+3,HR,Recruiter,Good,Mid,No
+11,HR,HR Manager,Excellent,Senior,Yes
+19,Finance,Financial Analyst,Excellent,Senior,Yes
+16,IT,System Analyst,Excellent,Senior,Yes
+4,Marketing,Marketing Analyst,Average,Mid,No
+5,HR,Recruiter,Average,Mid,No
+6,IT,Developer,Good,Mid,No
+8,Finance,Accountant,Excellent,Senior,Yes
+16,IT,Data Scientist,Excellent,Senior,Yes
+3,Finance,Financial Analyst,Good,Mid,No
+20,IT,System Analyst,Good,Senior,Yes
+17,Sales,Sales Manager,Good,Senior,No
+12,IT,Developer,Good,Senior,Yes
+17,IT,System Analyst,Good,Senior,No
+15,Marketing,SEO Specialist,Excellent,Senior,Yes
+2,IT,System Analyst,Average,Junior,No
+5,HR,HR Manager,Good,Mid,No
+13,Finance,Financial Analyst,Good,Senior,Yes
+5,HR,HR Manager,Average,Mid,No
+8,Marketing,Marketing Analyst,Excellent,Senior,Yes
+5,IT,System Analyst,Good,Mid,No
+5,Marketing,SEO Specialist,Average,Mid,No
+9,IT,Developer,Good,Senior,Yes
+20,Marketing,Marketing Analyst,Good,Senior,No
+18,Finance,Financial Analyst,Excellent,Senior,Yes
+15,HR,HR Manager,Good,Senior,Yes
+13,IT,System Analyst,Excellent,Senior,Yes
+20,HR,Recruiter,Excellent,Senior,Yes
+13,Marketing,Marketing Analyst,Good,Senior,No
+12,Marketing,SEO Specialist,Excellent,Senior,Yes
+7,Sales,Sales Manager,Good,Mid,No
+2,IT,Developer,Good,Junior,No
+5,HR,Recruiter,Good,Mid,No
+9,IT,System Analyst,Excellent,Senior,Yes
+14,HR,Recruiter,Excellent,Senior,Yes
+2,HR,Recruiter,Average,Junior,No
+5,IT,Developer,Good,Mid,No
+13,Sales,Sales Executive,Good,Senior,Yes
+6,HR,Recruiter,Excellent,Mid,Yes
+19,Marketing,Marketing Analyst,Good,Senior,No
+12,Sales,Sales Executive,Excellent,Senior,Yes
+18,Finance,Financial Analyst,Good,Senior,No
+19,HR,Recruiter,Good,Senior,No
+12,Marketing,SEO Specialist,Excellent,Senior,Yes
+17,HR,HR Manager,Excellent,Senior,Yes
+16,Sales,Sales Manager,Excellent,Senior,Yes
+14,Finance,Financial Analyst,Excellent,Senior,Yes
+17,IT,System Analyst,Excellent,Senior,Yes
+19,Finance,Financial Analyst,Excellent,Senior,Yes
+4,HR,Recruiter,Average,Mid,No
+6,HR,Recruiter,Excellent,Mid,Yes
+8,Marketing,SEO Specialist,Excellent,Senior,Yes
+13,HR,HR Manager,Excellent,Senior,Yes
+3,HR,Recruiter,Good,Mid,No
+18,Finance,Accountant,Excellent,Senior,Yes
+7,Sales,Sales Manager,Excellent,Mid,Yes
+10,Marketing,Marketing Analyst,Excellent,Senior,Yes
+0,Sales,Sales Executive,Poor,Junior,No
+15,Finance,Financial Analyst,Excellent,Senior,Yes
+5,Finance,Accountant,Average,Mid,No
+18,IT,Developer,Good,Senior,No
+20,Finance,Financial Analyst,Excellent,Senior,Yes
+17,Finance,Accountant,Good,Senior,Yes
+16,Sales,Sales Manager,Excellent,Senior,Yes
+12,Sales,Sales Executive,Good,Senior,No
+20,Finance,Accountant,Excellent,Senior,Yes
+8,HR,HR Manager,Excellent,Senior,Yes
+17,HR,Recruiter,Excellent,Senior,Yes
+7,Marketing,SEO Specialist,Excellent,Mid,Yes
+14,Sales,Sales Manager,Excellent,Senior,Yes
+18,Marketing,SEO Specialist,Excellent,Senior,Yes
+19,Finance,Accountant,Good,Senior,Yes
+19,Marketing,Marketing Analyst,Excellent,Senior,Yes
+16,Marketing,Marketing Analyst,Excellent,Senior,Yes
+7,IT,Data Scientist,Excellent,Mid,Yes
+2,Marketing,SEO Specialist,Good,Junior,No
+8,Sales,Sales Manager,Excellent,Senior,Yes
+10,IT,System Analyst,Good,Senior,No
+6,Marketing,Marketing Analyst,Good,Mid,No
+13,Finance,Financial Analyst,Good,Senior,No
+16,IT,Developer,Good,Senior,Yes
+3,HR,HR Manager,Good,Mid,No
+5,Finance,Financial Analyst,Good,Mid,No
+3,Finance,Accountant,Good,Mid,No
+20,Marketing,SEO Specialist,Good,Senior,No
+13,HR,HR Manager,Excellent,Senior,Yes
+5,Finance,Accountant,Good,Mid,No
+16,Finance,Accountant,Good,Senior,Yes
+19,Marketing,Marketing Analyst,Excellent,Senior,Yes
+16,IT,System Analyst,Good,Senior,No
+4,Finance,Accountant,Average,Mid,No
+14,HR,HR Manager,Excellent,Senior,Yes
+10,HR,Recruiter,Good,Senior,Yes
+3,Sales,Sales Manager,Average,Mid,No
+7,HR,HR Manager,Excellent,Mid,Yes
+1,HR,HR Manager,Average,Junior,No
+10,IT,System Analyst,Excellent,Senior,Yes
+8,Finance,Accountant,Good,Senior,No
+16,Marketing,Marketing Analyst,Good,Senior,Yes
+18,Marketing,SEO Specialist,Excellent,Senior,Yes
+17,Sales,Sales Manager,Excellent,Senior,Yes
+19,HR,HR Manager,Excellent,Senior,Yes
+8,Marketing,Marketing Analyst,Good,Senior,Yes
+18,IT,Data Scientist,Good,Senior,Yes
+14,IT,Data Scientist,Good,Senior,No
+19,Finance,Financial Analyst,Excellent,Senior,Yes
+11,HR,Recruiter,Good,Senior,Yes
+13,Marketing,Marketing Analyst,Good,Senior,Yes
+8,Marketing,Marketing Analyst,Good,Senior,Yes
+17,Sales,Sales Executive,Good,Senior,No
+14,Sales,Sales Executive,Excellent,Senior,Yes
+8,Finance,Accountant,Good,Senior,No
+17,Finance,Accountant,Excellent,Senior,Yes
+11,Finance,Financial Analyst,Excellent,Senior,Yes
+17,Sales,Sales Executive,Excellent,Senior,Yes
+0,IT,Developer,Poor,Junior,No
+18,IT,Data Scientist,Excellent,Senior,Yes
+7,Marketing,Marketing Analyst,Excellent,Mid,Yes
+2,Marketing,SEO Specialist,Good,Junior,No
+6,Finance,Financial Analyst,Excellent,Mid,Yes
+9,Sales,Sales Manager,Excellent,Senior,Yes
+10,Sales,Sales Executive,Excellent,Senior,Yes
+0,HR,HR Manager,Poor,Junior,No
+5,Marketing,Marketing Analyst,Average,Mid,No
+8,HR,Recruiter,Excellent,Senior,Yes
+4,Marketing,SEO Specialist,Good,Mid,No
+11,Finance,Accountant,Good,Senior,Yes
+2,Marketing,Marketing Analyst,Average,Junior,No
+12,Finance,Financial Analyst,Good,Senior,Yes
+15,HR,Recruiter,Good,Senior,No
+9,IT,Developer,Excellent,Senior,Yes
+8,Finance,Financial Analyst,Excellent,Senior,Yes
+14,HR,Recruiter,Good,Senior,No
+13,Finance,Financial Analyst,Excellent,Senior,Yes
+2,Sales,Sales Executive,Average,Junior,No
+3,HR,HR Manager,Average,Mid,No
